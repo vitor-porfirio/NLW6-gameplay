@@ -8,14 +8,14 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
   },
 
-  content: {
-    marginTop: -40,
-    paddingHorizontal: 50,
-  },
-
   image: {
     width: '100%',
     height: 360,
+  },
+
+  content: {
+    marginTop: -40,
+    paddingHorizontal: 50,
   },
 
   title: {

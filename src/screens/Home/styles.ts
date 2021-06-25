@@ -11,13 +11,8 @@ export const styles = StyleSheet.create({
     paddingHorizontal: 24,
     flexDirection: 'row',
     justifyContent: 'space-between',
-    // will only affect on iphone X+
     marginTop: getStatusBarHeight() + 26,
     marginBottom: 42,
-  },
-
-  content: {
-    marginTop: 42,
   },
 
   matches: {

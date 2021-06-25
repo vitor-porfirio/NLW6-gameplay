@@ -1,0 +1,12 @@
+{
+  "React Native Stylesheet export": {
+    "prefix": "rns",
+    "body": [
+      "import {StyleSheet} from 'react-native';\n",
+      "export const styles = StyleSheet.create({",
+      "\tcontainer: {},",
+      "});\n"
+    ],
+    "description": "Snippet for create and export simple style"
+  }
+}

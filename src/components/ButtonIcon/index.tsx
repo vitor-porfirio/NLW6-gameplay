@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, Text, Image} from 'react-native';
+import {Text, Image, View} from 'react-native';
 import {RectButton, RectButtonProps} from 'react-native-gesture-handler';
 
 import DiscordImg from '../../assets/discord.png';
