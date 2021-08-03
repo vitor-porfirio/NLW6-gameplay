@@ -3,10 +3,11 @@ import {View, Text, Image, Alert, ActivityIndicator} from 'react-native';
 
 import {useAuth} from '../../hooks/auth';
 
+import IllustrationImg from '../../assets/illustration.png';
+
 import {ButtonIcon} from '../../components/ButtonIcon';
 import {Background} from '../../components/Background';
 
-import IllustrationImg from '../../assets/illustration.png';
 import {theme} from '../../global/styles/theme';
 import {styles} from './styles';
 

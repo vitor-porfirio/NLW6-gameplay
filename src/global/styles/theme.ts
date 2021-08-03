@@ -1,6 +1,6 @@
 export const theme = {
   colors: {
-    primary: '#780206',
+    primary: '#E51C44',
 
     secondary100: '#0A1033',
     secondary90: '#0D133D',
@@ -17,6 +17,8 @@ export const theme = {
     heading: '#DDE3F0',
     line: '#991F36',
     on: '#32BD50',
+
+    discord: '#7289da',
   },
 
   fonts: {

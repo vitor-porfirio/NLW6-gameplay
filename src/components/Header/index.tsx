@@ -1,8 +1,8 @@
 import React, {ReactNode} from 'react';
 import {Text, View} from 'react-native';
+import {LinearGradient} from 'expo-linear-gradient';
 import {BorderlessButton} from 'react-native-gesture-handler';
 import {useNavigation} from '@react-navigation/native';
-import {LinearGradient} from 'expo-linear-gradient';
 import {Feather} from '@expo/vector-icons';
 
 import {theme} from '../../global/styles/theme';

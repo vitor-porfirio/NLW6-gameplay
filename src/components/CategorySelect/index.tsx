@@ -1,11 +1,10 @@
 import React from 'react';
 import {ScrollView} from 'react-native';
-import {RectButton, RectButtonProps} from 'react-native-gesture-handler';
-
-import {styles} from './styles';
-import {categories} from '../../utils/categories';
 
 import {Category} from '../Category';
+
+import {categories} from '../../utils/categories';
+import {styles} from './styles';
 
 type Props = {
   categorySelected: string;
